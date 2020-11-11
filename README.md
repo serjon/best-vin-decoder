@@ -16,4 +16,4 @@ The Vehicle Identification Number (VIN) or Chassis Number can be found on the da
 
 ### 20% Discount carvertical
 
-* [Try it](https://www.carvertical.com/en/landing/v3?utm_source=aff&a=sergiubcv&b=81ec5429&voucher=carvineu)
+[Try it](https://www.carvertical.com/en/landing/v3?utm_source=aff&a=sergiubcv&b=81ec5429&voucher=carvineu)
